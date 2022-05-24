@@ -2,6 +2,10 @@
 <h3 align="center">Fresh Graduate Computer Networks Engineering who is interested in Cloud Engineering.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfayez-7&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfayez-7" /> </p>
 
+
+<img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" width="10" height="10" /> 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfayez-7" alt="mohamedfayez-7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
