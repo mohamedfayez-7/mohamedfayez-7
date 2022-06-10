@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Fayez</h1>
-<h3 align="center">Fresh Graduate Networks And Telecommunications Engineer</h3>
+<h3 align="center">Fresh Graduate Networks & Telecommunications Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedfayez-7&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfayez-7" /> </p>
 <div id="header" align="center">
