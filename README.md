@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Mohamed Fayez</h1>
 <h3 align="center">Fresh Graduate Networks & Telecommunications Engineer</h3>
 
