@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fayez</h1>
-<h2 align="center"></h2>
 <h3 align="center">  📫 My E-mail: mohamedfayez_7@yahoo.com </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="500"/>
