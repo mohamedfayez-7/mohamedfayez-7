@@ -1,11 +1,8 @@
+<h1 align="center">Hi 👋, I'm Mohamed Fayez</h1>
+<h3 align="center">A passionate DevOps Engineer from Egypt</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="500"/>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedfayez-7&label=Profile%20views&color=b40e0e&style=flat-square" alt="mohamedfayez-7" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfayez-7" alt="mohamedfayez-7" /></a> </p>
-<h1 align="center">Hi 👋, I'm Mohamed Fayez</h1>
-<h3 align="center">A passionate DevOps Engineer from Egypt</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfayez-7&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfayez-7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedfayez-7" alt="mohamedfayez-7" /></a> </p>
